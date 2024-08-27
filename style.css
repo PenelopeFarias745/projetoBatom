@@ -1,3 +1,16 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 25px;
+    font-family: cursive;
+    background-color: coral !important;
+    border-color: coral;
+}
+
 #lipstickBtn
 {
     width: 120px;
